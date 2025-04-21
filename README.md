@@ -4,9 +4,7 @@ This command-line application allows business owners to manage a company's emplo
 
 ## 📹 Walkthrough Video
 
-👉 [Watch the demo here](YOUR_VIDEO_LINK_HERE)
-
-> Replace `YOUR_VIDEO_LINK_HERE` with the actual link to your walkthrough video.
+👉 [Watch the demo here](https://app.screencastify.com/v3/watch/xnU7nNkMEFJ4K5fn4tDW)
 
 ---
 
